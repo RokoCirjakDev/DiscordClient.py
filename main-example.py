@@ -10,7 +10,7 @@ from lib.fetch_info import (
 from lib.send_friend_request import send_friend_request
 from lib.join_server import join_server
 
-auth_token = 'your_token_here'
+# auth_token = 'your_token_here'
 
 if __name__ == "__main__":
     # declare account for header creation
